@@ -1,0 +1,35 @@
+.ellipse-paragraph1 {
+    display: -webkit-box;
+    max-width: "100%";
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.ellipse-paragraph2 {
+    display: -webkit-box;
+    max-width: "100%";
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.ellipse-paragraph3 {
+    display: -webkit-box;
+    max-width: "100%";
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.ellipse-paragraph4 {
+    display: -webkit-box;
+    max-width: "100%";
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.ellipse-paragraph5 {
+    display: -webkit-box;
+    max-width: "100%";
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
